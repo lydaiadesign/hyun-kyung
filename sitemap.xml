@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 배포 후 "[배포 후 입력]"을 실제 홈페이지 주소(예: https://www.도메인)로 바꾸세요.
+     작업물 사진(product-1.jpg 등)을 넣었다면 gallery.html도 추가하세요. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>[배포 후 입력]/</loc><lastmod>2026-11-10</lastmod><priority>1.0</priority></url>
+  <url><loc>[배포 후 입력]/about.html</loc><lastmod>2026-11-10</lastmod><priority>0.8</priority></url>
+  <url><loc>[배포 후 입력]/expert.html</loc><lastmod>2026-11-10</lastmod><priority>0.8</priority></url>
+  <url><loc>[배포 후 입력]/services.html</loc><lastmod>2026-11-10</lastmod><priority>0.9</priority></url>
+  <url><loc>[배포 후 입력]/service-interior.html</loc><lastmod>2026-11-10</lastmod><priority>0.9</priority></url>
+  <url><loc>[배포 후 입력]/service-rural.html</loc><lastmod>2026-11-10</lastmod><priority>0.9</priority></url>
+  <url><loc>[배포 후 입력]/service-livinglab.html</loc><lastmod>2026-11-10</lastmod><priority>0.8</priority></url>
+  <url><loc>[배포 후 입력]/cases.html</loc><lastmod>2026-11-10</lastmod><priority>0.8</priority></url>
+  <url><loc>[배포 후 입력]/faq.html</loc><lastmod>2026-11-10</lastmod><priority>0.8</priority></url>
+  <url><loc>[배포 후 입력]/contact.html</loc><lastmod>2026-11-10</lastmod><priority>0.7</priority></url>
+</urlset>
